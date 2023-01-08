@@ -10,8 +10,10 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm install
+RUN npm i -g pm2 && pm2 start main.js && pm2 monit
 
 COPY . .
+
+EXPOSE 5000/tcp
 
 CMD ["npm", "start"]
