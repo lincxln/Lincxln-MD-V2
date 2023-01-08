@@ -10,7 +10,7 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm i -g pm2 && pm2 start main.js && pm2 monit
+RUN npm install
 
 COPY . .
 
