@@ -1846,7 +1846,7 @@ module.exports = async (
               _0x454182 +
               'Telpon/Spam blokir \uD83D\uDEAB' +
               _0x454182 +
-              '\n\n_Admin 1 : 0838-3455-8105_\n_Admin 2 : 0822-7991-5237_\n\n*SCRIPT BOT \uD83D\uDED2*\n_Rp50.000 - ( Topup & Fitur 300+ )_\n_Rp100.000 - ( Topup & Fitur 600+ )_\n\n*_Ready Nokos Whatsapp +1_*\n*_Harga Murah? Chat Admin_*\n*_Open Stok Terbatas\u26A0️_*\n\n*_VIA : DANA/OVO/QRIS_*\n\n*Minta SV? Sebut Nama \uD83D\uDE4F*\n*No Admin Reall Hanya*\n*Di Atas, Selain Itu Clone*\u203C️\n'
+              '\n\n_Admin 1 : 085694756102_\n_Admin 2 : 082322097449_\n\n*SCRIPT BOT \uD83D\uDED2*\n_Rp50.000 - ( Topup & Fitur 300+ )_\n_Rp100.000 - ( Topup & Fitur 600+ )_\n\n*_Ready Nokos Whatsapp +1_*\n*_Harga Murah? Chat Admin_*\n*_Open Stok Terbatas\u26A0️_*\n\n*_VIA : DANA/OVO/QRIS_*\n\n*Minta SV? Sebut Nama \uD83D\uDE4F*\n*No Admin Reall Hanya*\n*Di Atas, Selain Itu Clone*\u203C️\n'
           _0x5da978(_0x536c3a)
         }
         break
